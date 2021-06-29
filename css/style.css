@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* inizio main */
+main {
+    width: 100%;
+    height: calc(100vh - 80px);
+    background-color: black;
+}
+/* fine main */
+
+/* inizio footer */
+footer {
+    height: 80px;
+}
+/* fine footer */
